@@ -5,8 +5,18 @@
    +#++:++        +#+     +#++:++#   +#++:++#:  +#++:++#++: +#+ +:+ +#+    
   +#+  +#+       +#+     +#+        +#+    +#+ +#+     +#+ +#+  +#+#+#     
  #+#   #+#      #+#     #+#        #+#    #+# #+#     #+# #+#   #+#+#      
-###    ### ########### ########## ###    ### ###     ### ###    ####       
+###    ### ########### ########## ###    ### ###     ### ###    ####
+
+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:
 ```  
+### About me.
+- Im studying Software Engieering BSc (Hons) @ Bournemouth University.
+- I am currently ,and have been, completing freelance projects.
+- I am currently working through leetcodes problems in Python. [this repo](https://github.com/kr1hys/Leetcode-Solutions).
+
+### Reach me.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kieranjmiles)
+
 
 
 <!--
